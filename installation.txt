@@ -1,0 +1,5 @@
+Installation Guide
+------------------
+
+Hello! 
+	This is the installation guide.
